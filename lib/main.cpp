@@ -22,6 +22,7 @@ void main(void)
 	printFooter();
 	searchOlders();
 	setOlders();
+puts(greeter);}
 }
 
 
