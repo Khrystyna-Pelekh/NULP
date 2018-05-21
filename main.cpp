@@ -23,8 +23,8 @@ void main(void)
 	printFooter();
 	searchOlders();
 	setOlders();
-	getchar();
 }
+
 
 
 
