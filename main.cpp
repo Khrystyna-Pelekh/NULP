@@ -1,7 +1,7 @@
 #include <iostream>
 #include "my_lib.h"
 
-
+//comment new
 reader list[KST];
 reader olders[KST];
 
