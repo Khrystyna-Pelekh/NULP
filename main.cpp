@@ -9,7 +9,6 @@ int numb;
 
 void main(void)
 {
-	system("chcp 1251");
 
 	printf("Кількість читачів - ");
 	scanf_s("%d", &count);
