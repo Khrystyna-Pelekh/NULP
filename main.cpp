@@ -4,7 +4,7 @@
 
 reader list[KST];
 reader olders[KST];
-int count;
+
 int numb;
 
 void main(void)
