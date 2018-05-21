@@ -19,12 +19,7 @@ void main(void)
 	for (int i = 0; i < count; i++) {
 		printRow(i);
 	}
-	printFooter();
-	searchOlders();
-	setOlders();
-puts(greeter);}
-}
-
+	}
 
 
 
